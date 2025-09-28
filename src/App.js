@@ -23,8 +23,8 @@ function App() {
         </p>
       </header>
 
-      <h1 className="text-[#5c8a58] font-medium text-[24px] md:text-[43.39px] leading-none mt-6 md:mt-10 mb-6 md:mb-10 text-center px-4 max-w-4xl">
-        A few updates and a few  upgrades
+      <h1 className="text-[#5c8a58] font-semibold text-[24px] md:text-[43.39px] leading-none mt-6 md:mt-10 mb-6 md:mb-10 text-center px-4 max-w-4xl font-montserrat">
+        A few updates and a few upgrades
         <br />
         are coming
       </h1>
@@ -49,7 +49,7 @@ function App() {
           {/* Main footer content - responsive layout */}
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 lg:gap-16">
             {/* Left Column */}
-            <div className="space-y-6 md:space-y-8 pl-2 md:pl-4 lg:pl-8">
+            <div className="space-y-6 md:space-y-8 ml-40 pl-2 md:pl-4 lg:pl-8">
               {/* Curious section */}
               <div className="text-left">
                 <p className="text-[#5c8a58] font-bold italic text-[16px] md:text-[19.12px] leading-none mb-3 md:mb-4">
