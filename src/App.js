@@ -72,7 +72,7 @@ function App() {
                       alt="Email"
                       className="w-5 h-5 text-[#5c8a58]"
                     />
-                    <p className="text-[#666666] font-medium text-[14px] md:text-[16.67px] leading-none">
+                    <p className="text-[#666666]  font-medium text-[14px] md:text-[16.67px] leading-none">
                       curious@agnikul.in
                     </p>
                   </div>
@@ -95,7 +95,7 @@ function App() {
                         alt="Email"
                         className="w-5 h-5 text-[#5c8a58]"
                       />
-                      <p className="text-[#666666]  text-[14px] md:text-[16.67px] leading-none">
+                      <p className="text-[#666666] font-medium text-[14px] md:text-[16.67px] leading-none">
                         payloadpeople@agnikul.in
                       </p>
                     </div>
@@ -110,7 +110,7 @@ function App() {
                         alt="Email"
                         className="w-5 h-5 text-[#5c8a58]"
                       />
-                      <p className="text-[#666666]  text-[14px] md:text-[16.67px] leading-none">
+                      <p className="text-[#666666]  font-medium text-[14px] md:text-[16.67px] leading-none">
                         humancapital@agnikul.in
                       </p>
                     </div>
@@ -205,7 +205,7 @@ function App() {
                         alt="Location"
                         className="w-5 h-5 text-[#5c8a58] mt-0.5"
                       />
-                      <p className="text-[#666666]  text-[14px] md:text-[16.67px] leading-tight">
+                      <p className="text-[#666666] font-medium  text-[14px] md:text-[16.67px] leading-tight">
                         Rocket Factory - I, 1st floor, A-Block,
                         <br />
                         IIT Madras Research Park, Chennai 600113
@@ -222,7 +222,7 @@ function App() {
                         alt="Location"
                         className="w-5 h-5 text-[#5c8a58] mt-0.5"
                       />
-                      <p className="text-[#666666]  text-[14px] md:text-[16.67px] leading-tight">
+                      <p className="text-[#666666] font-medium text-[14px] md:text-[16.67px] leading-tight">
                         Kerala Startup Mission, Technopark, Thejaswini,
                         <br />
                         G3B, Technopark Rd, Karyavattom,
