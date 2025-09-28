@@ -24,7 +24,7 @@ function App() {
       </header>
 
       <h1 className="text-[#5c8a58] font-medium text-[24px] md:text-[43.39px] leading-none mt-6 md:mt-10 mb-6 md:mb-10 text-center px-4 max-w-4xl">
-        A few updates and a upgrades
+        A few updates and a few  upgrades
         <br />
         are coming
       </h1>
@@ -150,7 +150,7 @@ function App() {
                     <img
                       src={Linkedin}
                       alt="LinkedIn"
-                      className="w-[35px] h-[35px] md:w-[30px] md:h-[30px]"
+                      className="w-[35px] h-[35px] md:w-[53px] md:h-[50px]"
                     />
                   </a>
                   <a
@@ -161,7 +161,7 @@ function App() {
                     <img
                       src={insta}
                       alt="Instagram"
-                      className="w-[35px] h-[35px] md:w-[30px] md:h-[30px]"
+                      className="w-[35px] h-[35px] md:w-[53px] md:h-[50px]"
                     />
                   </a>
                   <a
@@ -172,7 +172,7 @@ function App() {
                     <img
                       src={youtube}
                       alt="YouTube"
-                      className="w-[35px] h-[35px] md:w-[30px] md:h-[30px]"
+                      className="w-[35px] h-[35px] md:w-[53px] md:h-[50px]"
                     />
                   </a>
                   <a
@@ -183,7 +183,7 @@ function App() {
                     <img
                       src={x}
                       alt="X"
-                      className="w-[35px] h-[35px] md:w-[30px] md:h-[30px]"
+                      className="w-[35px] h-[35px] md:w-[53px] md:h-[50px]"
                     />
                   </a>
                 </div>
